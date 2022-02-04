@@ -1,2 +1,2 @@
 # firedetector
-Detects mosranna
+Detects fire
